@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '34828'
     url: http://www.gutenberg.org/2009/agents/34828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43081#On-the-Road-to-BagdadA-Story-of-Townshend-s-Gallant-Advance-on-the-Tigris
 gutenberg_issued: '2013-07-02'
 gutenberg_type: Text
 identifiers:
